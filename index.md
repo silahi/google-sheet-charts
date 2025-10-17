@@ -1,3 +1,8 @@
+---
+layout: default
+title: BIEN CHOISIR LE BON TYPE DE GRAPHIQUE - Analyse de données
+---
+
 # ATELIER PRATIQUE : CHOISIR LE BON TYPE DE GRAPHIQUE DANS GOOGLE SHEETS
 
 **Auteur :** Ali Houssene Silahi  
