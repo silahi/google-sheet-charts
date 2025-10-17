@@ -1,0 +1,6 @@
+title: CHOISIR LE BON TYPE DE GRAPHIQUE DANS GOOGLE SHEETS
+description: Guide et atelier pratique Google Sheets
+baseurl: "/google-sheet-charts" # nom du repo
+url: "https://silahi.github.io"
+theme: jekyll-theme-cayman
+markdown: kramdown
